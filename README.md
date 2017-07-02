@@ -24,7 +24,7 @@
               <u>About</u>
             </h1>
             <h1 class="text-primary"></h1>
-            <p>EasyCashFlow is a language for creating and manipulating cash flows.It has the basic functionality needed so anyone with basic knowledge of how cash flows work can use this language to visually see cash flows and change them as needed. .</p>
+            <p>EasyCashFlow is a language for creating and manipulating cash flows.It has the basic functionality needed so anyone with basic knowledge of how cash flows work can use this language to visually see cash flows and change them as needed.</p>
             <h1 class="text-primary">
               <u>Motivation</u>
             </h1>
