@@ -17,8 +17,7 @@
         </div>
       </div>
     </div>
-    <div class="section">
-      <div class="container">
+    <div class="section">      <div class="container">
         <div class="row">
           <div class="col-md-6">
             <h1 class="text-primary">
@@ -46,7 +45,7 @@
           </div>
           <div class="col-md-6">
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe src="https://youtu.be/PZfg6_SlYCU" allowfullscreen="" width="640" height="360" frameborder="0"></iframe>
+              <iframe src="https://youtu.be/PZfg6_SlYCU" width="640" height="360" ></iframe>
             </div>
           </div>
         </div>
