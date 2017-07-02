@@ -45,7 +45,7 @@
           </div>
           <div class="col-md-6">
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe src="https://www.youtube.com/watch?v=PZfg6_SlYCU&t=1s" allowfullscreen="" width="640" height="360" frameborder="0"></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/PZfg6_SlYCU" frameborder="0" allowfullscreen></iframe>
             </div>
           </div>
         </div>
