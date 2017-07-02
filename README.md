@@ -32,7 +32,7 @@
             <h1 class="text-primary">
               <u>Language Features</u>
             </h1>
-            <p>EnrollMe provides basic features for the enrollment process:</p>
+            <p>Easy Cash Flow provides basic functionality for manipulation and creation of cash flows</p>
             <div class="col-md-12">
               <ul class="list-unstyled">
                 <li>Create and display cash flows.</li>
