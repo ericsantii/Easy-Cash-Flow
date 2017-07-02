@@ -35,11 +35,10 @@
             <p>EnrollMe provides basic features for the enrollment process:</p>
             <div class="col-md-12">
               <ul class="list-unstyled">
-                <li>Perform common tasks related to class enrollment like: enroll a class,
-                  drop a class and changing a class section.</li>
-                <li>Show the student schedule</li>
-                <li>Display available courses using filters like courseID, professor name
-                  and/or time.</li>
+                <li>Create and display cash flows.</li>
+                <li>Earn lose, remove values in the cash flows</li>
+                <li>Combine or substract two cashflows.</li>
+                <li>Find present worth or future worth of a value in the cash flow.</li>
               </ul>
             </div>
           </div>
@@ -59,8 +58,7 @@
         <div class="row">
           <div class="col-md-12">
             <p>The creators of the project are a group of students of the University
-              of Puerto Rico at Mayagüez. The team members are: Diego Figueroa, Wigberto
-              Maldonado, Jan Vega and Luis Vera. The project was developed as part of
+              of Puerto Rico at Mayagüez. The team members are: Eric Santillana, Alejandra Ortiz, Kahlil Fonseca and Ricardo Rodriguez. The project was developed as part of
               the Programming Languages course directed by Dr. Wilson Rivera.</p>
           </div>
         </div>
