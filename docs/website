@@ -1,0 +1,159 @@
+<html><head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="stylesheet.css" rel="stylesheet" type="text/css">
+
+  </head><body>
+
+    <div class="cover">
+
+      <div class="cover-image" style="background-image : url('backgroundblue.jpg')"></div>
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-12 text-center">
+
+            <h1 class="text-muted">EasyCashFlow</h1>
+
+            <br>
+
+            <br>
+
+            <a href="https://github.com/ericsantii/Easy-Cash-Flow/archive/master.zip">Download<br></a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="section">      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-6">
+
+            <h1 class="text-primary">
+
+              <u>About</u>
+
+            </h1>
+
+            <h1 class="text-primary"></h1>
+
+            <p>EasyCashFlow is a language for creating and manipulating cash flows.It has the basic functionality needed so anyone with basic knowledge of how cash flows work can use this language to visually see cash flows and change them as needed.</p>
+
+            <h1 class="text-primary">
+
+              <u>Motivation</u>
+
+            </h1>
+
+            <p>Our motivation is to facilitate the modeling of cash flows for students that are taking economy classes.The goal is to provide a tool that tis easy to understand and useful for students who need it.</p>
+
+            <h1 class="text-primary">
+
+              <u>Language Features</u>
+
+            </h1>
+
+            <p>Easy Cash Flow provides basic functionality for manipulation and creation of cash flows</p>
+
+            <div class="col-md-12">
+
+              <ul class="list-unstyled">
+
+                <li>Create and display cash flows.</li>
+
+                <li>Earn lose, remove values in the cash flows</li>
+
+                <li>Combine or substract two cashflows.</li>
+
+                <li>Find present worth or future worth of a value in the cash flow.</li>
+
+              </ul>
+
+            </div>
+
+          </div>
+
+          <div class="col-md-6">
+
+            <div class="embed-responsive embed-responsive-16by9">
+
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/PZfg6_SlYCU" frameborder="0" allowfullscreen></iframe>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-12">
+
+            <h1 class="text-primary">
+
+              <u>Creators</u>
+
+            </h1>
+
+          </div>
+
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-12">
+
+            <p>The creators of the project are a group of students of the University
+
+              of Puerto Rico at Mayagüez. The team members are: Eric Santillana, Alejandra Ortiz, Kahlil Fonseca and Ricardo Rodriguez. The project was developed as part of
+
+              the Programming Languages course directed by Dr. Wilson Rivera.</p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="section">
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-md-12">
+
+            <div class="btn-group">
+
+             
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  
+
+
+
+</body></html>
