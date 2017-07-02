@@ -45,7 +45,7 @@
           </div>
           <div class="col-md-6">
             <div class="embed-responsive embed-responsive-16by9">
-              <a href="https://youtu.be/PZfg6_SlYCU">Video Tutorial<br></a>
+              <iframe src="https://youtu.be/PZfg6_SlYCU" allowfullscreen="" width="640" height="360" frameborder="0"></iframe>
             </div>
           </div>
         </div>
