@@ -1,4 +1,4 @@
-<html><head>
+ <html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -29,10 +29,7 @@
             <h1 class="text-primary">
               <u>Motivation</u>
             </h1>
-            <p>Our motivation is to facilitate the currently confusing enrollment process.
-              Many students, specially freshman, do not understand this process and usually
-              seek help somewhere else. The goal is to provide students with a tool that
-              is easy to use with clear commands and simple vocabulary.</p>
+            <p>Our motivation is to facilitate the modeling of cash flows for students that are taking economy classes.The goal is to provide a tool that tis easy to understand and useful for students who need it.</p>
             <h1 class="text-primary">
               <u>Language Features</u>
             </h1>
@@ -75,7 +72,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="btn-group">
-              <a href="https://github.com/janvega1/EnrollMe" class="btn btn-primary">View on GitHub</a>
+              <a href="https://github.com/ericsantii/Easy-Cash-Flow" class="btn btn-primary">View on GitHub</a>
               <a href="https://github.com/janvega1/EnrollMe/blob/master/EnrollMeFinalReport.pdf" class="btn btn-primary">Final Report</a>
               <a href="https://github.com/janvega1/EnrollMe/blob/master/EnrollMeTutorialandReference.pdf" class="btn btn-primary">Tutorial</a>
             </div>
