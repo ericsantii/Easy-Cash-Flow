@@ -69,9 +69,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="btn-group">
-              <a href="https://github.com/ericsantii/Easy-Cash-Flow" class="btn btn-primary">View on GitHub</a>
-              <a href="https://github.com/janvega1/EnrollMe/blob/master/EnrollMeFinalReport.pdf" class="btn btn-primary">Final Report</a>
-              <a href="https://github.com/janvega1/EnrollMe/blob/master/EnrollMeTutorialandReference.pdf" class="btn btn-primary">Tutorial</a>
+             
             </div>
           </div>
         </div>
